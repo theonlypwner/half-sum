@@ -1,7 +1,7 @@
 # Noob Calculus
 
 ## Release/Version Info
-The current release is *release 1*, which is considered _stable_.
+The current release is **release 1**, which is considered _stable_.
 
 ## Summary
 This application demonstrates the following statement:
